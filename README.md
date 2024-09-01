@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🚀 About Me
-I'm a passionate developer with expertise in **C++**, **C**, **Java**, **OpenCV**, **Deep Learning**, **Machine Learning**, **Django**, **HTML**, **CSS**, and **JavaScript**. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you’ll find me exploring the latest trends in AI and web development.
+I'm a passionate developer with expertise in **Python**,**C++**, **C**, **Java**, **OpenCV**, **Deep Learning**, **Machine Learning**, **Django**, **HTML**, **CSS**, and **JavaScript**. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you’ll find me exploring the latest trends in AI and web development.
 
 ---
 
