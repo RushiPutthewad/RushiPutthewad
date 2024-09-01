@@ -12,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">
   Hi there, I'm <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=Rushi+Balaji+Putthewad;" alt="animated" style="vertical-align: middle;"> 👋
 </h1>
+<h1 align="center" style="display: flex; justify-content: center; align-items: center;">
+  Hi there, I'm&nbsp;<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=Rushi+Balaji+Putthewad;" alt="animated" style="vertical-align: middle;">&nbsp;👋
+</h1>
 
 ### 💻 Tech Enthusiast | 🎯 Problem Solver | 🚀 Lifelong Learner
 
