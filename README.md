@@ -9,7 +9,9 @@ RushiPutthewad/RushiPutthewad is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 # Hi there, I'm [Rushi Balaji Putthewad] 👋
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Tech+Enthusiast;Problem+Solver;Lifelong+Learner" alt="animated">
+</p>
 ### 💻 Tech Enthusiast | 🎯 Problem Solver | 🚀 Lifelong Learner
 
 ---
