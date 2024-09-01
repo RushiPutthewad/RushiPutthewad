@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there, I'm<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&style=margin-bottom: 20px&lines=Rushi+Balaji+Putthewad;" alt="animated">👋
 <h1 align="center">
-  Hi there, I'm <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=Rushi+Balaji+Putthewad;" alt="animated"> 👋
+  Hi there, I'm <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=Rushi+Balaji+Putthewad;" alt="animated" style="vertical-align: middle;"> 👋
 </h1>
 
 ### 💻 Tech Enthusiast | 🎯 Problem Solver | 🚀 Lifelong Learner
