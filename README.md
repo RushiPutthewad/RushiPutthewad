@@ -68,18 +68,6 @@ I'm currently diving deeper into **Deep Learning** and **Advanced Web Developmen
 "Stay hungry, stay foolish" - Steve Jobs
 
 <h1 align="center">Hi 👋, I'm Rushi Balaji Putthewad</h1>
-Hi there, I'm <span style="display:inline-block; animation:bounce 1s infinite;"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=Rushi+Balaji+Putthewad;" alt="animated"></span> 👋
-
-<style>
-@keyframes bounce {
-  0%, 100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-10px);
-  }
-}
-</style>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Story generation in marathi language which new approach working am I.**
