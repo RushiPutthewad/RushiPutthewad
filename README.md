@@ -72,8 +72,6 @@ I'm currently diving deeper into **Deep Learning** and **Advanced Web Developmen
 ---
 
 "Stay hungry, stay foolish" - Steve Jobs
-
-<h1 align="center">Hi 👋, I'm Rushi Balaji Putthewad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Story generation in marathi language which new approach working am I.**
