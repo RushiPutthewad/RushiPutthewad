@@ -27,17 +27,23 @@ I'm a passionate developer with expertise in **Python**,**C++**, **C**, **Java**
 
 ## 🔍 Featured Projects
 
-- **[Project Name 1](#)**
-  - 🚀 **Tech:** C++, OpenCV
-  - 📝 **Description:** Brief description of what this project does and its features.
+- **[Marathi Story Generation](#)**
+  - 🚀 **Tech:** Python, Bootstrap, React JS, flask, Google Colab, TensorFlow.
+  - 📝 **Description:** 1. Developed a Marathi Story Generation system using LSTM with TensorFlow and Keras, enabling creative text generation based on user prompts.
+  - 2. We integrated the model with a Flask web application and a Bootstrap-based front end for an interactive user experience.
+
   
-- **[Project Name 2](#)**
-  - 🚀 **Tech:** Django, HTML, CSS
-  - 📝 **Description:** Brief description of what this project does and its features.
+- **[MediTSA – Platform for donating unused medicine to NGO’s](#)**
+  - 🚀 **Tech:** Python, Django, Bootstrap, SQLite
+  - 📝 **Description:**  1. Designed a system to connect donors with NGOs, facilitating efficient medicine distribution to underserved communities and improving healthcare access.
+  - 2. It features role-based functionalities for donors, NGOs, and volunteers, including donation management and transaction history.
+
   
-- **[Project Name 3](#)**
-  - 🚀 **Tech:** Java, Machine Learning
-  - 📝 **Description:** Brief description of what this project does and its features.
+- **[Animal Sound Classification](#)**
+  - 🚀 **Tech:** Python, Google Colab, Librosa, TensorFlow, Keras
+  - 📝 **Description:** 1. Developed an Animal Sound Classification system by collecting voice recordings of 13 animal species from YouTube and Google.
+  - 2. Utilized Mel-Frequency Cepstral Coefficients (MFCCs) as features for audio signal processing to train and classify animal sounds accurately.
+
 
 Check out more of my projects [here](#).
 
