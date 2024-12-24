@@ -8,7 +8,8 @@
 RushiPutthewad/RushiPutthewad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi there, <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=I'm+Rushi+Balaji+Putthewad;" alt="animated">👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&width=500&lines=Hi+there,;I'm+Rushi+Balaji+Putthewad!;Welcome+to+my+GitHub+profile!;👀+I’m+interested+in+Python;I+love+coding+and+developing+projects.;Currently+learning+new+technologies.)](https://git.io/typing-svg)
 
 ### 💻 Tech Enthusiast | 🎯 Problem Solver | 🚀 Lifelong Learner
 
