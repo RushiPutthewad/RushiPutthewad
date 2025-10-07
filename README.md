@@ -160,7 +160,7 @@ I'm a passionate **Full Stack Developer** and recent **AI & Data Science graduat
 **Tech:** Python, Django, Bootstrap, SQLite | **Date:** Jun 2024  
 **Description:** Healthcare platform connecting donors with NGOs for medicine distribution  
 **Achievement:** Improved user engagement by 45%  
-**[View Project](https://github.com/RushiPutthewad)**
+**[View Project](https://github.com/RushiPutthewad/MediTSA)**
 
 ### 🐾 Animal Sound Classification System  
 **Tech:** Python, TensorFlow, Keras, Librosa, MFCCs | **Date:** Dec 2023  
