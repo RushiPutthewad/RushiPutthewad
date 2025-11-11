@@ -236,10 +236,9 @@ I'm a passionate **Full Stack Developer** and recent **AI & Data Science graduat
   <a href="https://leetcode.com/RushiPutthewad">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" height="60" />
   </a>
-  <a href="https://media1.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.weserv.nl/?url=media1.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif&mask=circle" alt="GitHub" width="50" height="50" style="border-radius: 50%; margin-bottom: 5px;" />
+  <a href="https://github.com/RushiPutthewad" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/5e75cc78-ad6e-4de4-b845-fb4a16a2db79" alt="GitHub" width="50" height="50" style="border-radius: 50%; margin-bottom: 5px;" />
   </a>
-
   <a href="https://leetcode.com/RushiPutthewad">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" width="60" height="60" />
   </a>
