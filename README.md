@@ -243,13 +243,8 @@ I'm a passionate **Full Stack Developer** and recent **AI & Data Science graduat
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" width="60" height="60" />
   </a>
   <a href="mailto:rushiputthewad@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.weserv.nl/?url=i.pinimg.com/originals/f7/dc/b2/f7dcb2817ad147c8b1d700ceb1d8cb28.gif&mask=circle" 
-         alt="GitHub" 
-         width="60" 
-         height="60" 
-         style="border-radius: 50%; margin-bottom: 5px;" />
+    <img src="https://github.com/user-attachments/assets/eedb91e7-4686-4fae-945b-c55b185c1492" alt="Gmail" width="60" height="60" />
   </a>
-
 </div>
 
 ---
