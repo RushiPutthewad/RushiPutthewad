@@ -17,9 +17,10 @@
 <h1 align="center">🚀 Full Stack Developer | Backend Specialist | AI & ML Enthusiast</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack--Development-2E8B57?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-Maharashtra%2C%20India-2E8B57?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/github-black?logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineer-FE9900?" alt="Focus" />
+  <img src="https://img.shields.io/badge/Lives-Maharashtra%2C%20India-2E8B57?" alt="Location" />
+  <img src="https://img.shields.io/badge/languages-10+-blue" alt="Languages Used" />
 </div>
 
 ---
