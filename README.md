@@ -91,8 +91,7 @@ I'm a passionate **Full Stack Developer** and recent **AI & Data Science graduat
   <img src="https://skillicons.dev/icons?i=scikitlearn" width="60" height="60" alt="Scikit-learn" />
   <img src="https://i0.wp.com/tech-mags.com/wp-content/uploads/2022/03/1200px-NumPy_logo_2020.svg_.png?resize=1024%2C461&ssl=1"
        width="140" height="60" alt="NumPy Logo" />
-  <img src="https://images.seeklogo.com/logo-png/45/1/pandas-logo-png_seeklogo-459105.png" width="150"
-       style="margin-bottom: 20px;" alt="Pandas Logo" />
+  <img width="140" height="60" alt="pandas (1)" src="https://github.com/user-attachments/assets/00f86ace-1122-4078-8e77-40b7c76dea79" />
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50" />
 </p>
 
